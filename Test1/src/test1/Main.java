@@ -16,6 +16,7 @@ public class Main {
      */
     public static void main(String[] args) {
         System.out.println("De Dan stinkt");
+        System.out.println("Aber de Luciano stinkt genauso");
     }
     
 }
